@@ -1,0 +1,6 @@
+c:\users\j.aziz\documents\visual studio 2015\Projects\UserTransaction1\UserTransaction1\bin\Debug\UserTransaction1.exe.config
+c:\users\j.aziz\documents\visual studio 2015\Projects\UserTransaction1\UserTransaction1\bin\Debug\UserTransaction1.exe
+c:\users\j.aziz\documents\visual studio 2015\Projects\UserTransaction1\UserTransaction1\bin\Debug\UserTransaction1.pdb
+c:\users\j.aziz\documents\visual studio 2015\Projects\UserTransaction1\UserTransaction1\obj\Debug\UserTransaction1.csprojResolveAssemblyReference.cache
+c:\users\j.aziz\documents\visual studio 2015\Projects\UserTransaction1\UserTransaction1\obj\Debug\UserTransaction1.exe
+c:\users\j.aziz\documents\visual studio 2015\Projects\UserTransaction1\UserTransaction1\obj\Debug\UserTransaction1.pdb

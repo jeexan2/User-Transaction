@@ -1,0 +1,9 @@
+c:\users\j.aziz\documents\visual studio 2015\Projects\UserTransaction1\UserTransaction.DAL\bin\Debug\UserTransaction.DAL.dll
+c:\users\j.aziz\documents\visual studio 2015\Projects\UserTransaction1\UserTransaction.DAL\bin\Debug\UserTransaction.DAL.pdb
+c:\users\j.aziz\documents\visual studio 2015\Projects\UserTransaction1\UserTransaction.DAL\bin\Debug\Newtonsoft.Json.dll
+c:\users\j.aziz\documents\visual studio 2015\Projects\UserTransaction1\UserTransaction.DAL\bin\Debug\UserTransaction.Domain.dll
+c:\users\j.aziz\documents\visual studio 2015\Projects\UserTransaction1\UserTransaction.DAL\bin\Debug\UserTransaction.Domain.pdb
+c:\users\j.aziz\documents\visual studio 2015\Projects\UserTransaction1\UserTransaction.DAL\bin\Debug\Newtonsoft.Json.xml
+c:\users\j.aziz\documents\visual studio 2015\Projects\UserTransaction1\UserTransaction.DAL\obj\Debug\UserTransaction.DAL.csprojResolveAssemblyReference.cache
+c:\users\j.aziz\documents\visual studio 2015\Projects\UserTransaction1\UserTransaction.DAL\obj\Debug\UserTransaction.DAL.dll
+c:\users\j.aziz\documents\visual studio 2015\Projects\UserTransaction1\UserTransaction.DAL\obj\Debug\UserTransaction.DAL.pdb

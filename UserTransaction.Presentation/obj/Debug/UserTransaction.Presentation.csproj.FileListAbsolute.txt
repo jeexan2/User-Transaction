@@ -1,0 +1,12 @@
+c:\users\j.aziz\documents\visual studio 2015\Projects\UserTransaction1\UserTransaction.Presentation\bin\Debug\UserTransaction.Presentation.exe.config
+c:\users\j.aziz\documents\visual studio 2015\Projects\UserTransaction1\UserTransaction.Presentation\bin\Debug\UserTransaction.Presentation.exe
+c:\users\j.aziz\documents\visual studio 2015\Projects\UserTransaction1\UserTransaction.Presentation\bin\Debug\UserTransaction.Presentation.pdb
+c:\users\j.aziz\documents\visual studio 2015\Projects\UserTransaction1\UserTransaction.Presentation\bin\Debug\Newtonsoft.Json.dll
+c:\users\j.aziz\documents\visual studio 2015\Projects\UserTransaction1\UserTransaction.Presentation\bin\Debug\UserTransaction.DAL.dll
+c:\users\j.aziz\documents\visual studio 2015\Projects\UserTransaction1\UserTransaction.Presentation\bin\Debug\UserTransaction.Domain.dll
+c:\users\j.aziz\documents\visual studio 2015\Projects\UserTransaction1\UserTransaction.Presentation\bin\Debug\UserTransaction.DAL.pdb
+c:\users\j.aziz\documents\visual studio 2015\Projects\UserTransaction1\UserTransaction.Presentation\bin\Debug\UserTransaction.Domain.pdb
+c:\users\j.aziz\documents\visual studio 2015\Projects\UserTransaction1\UserTransaction.Presentation\bin\Debug\Newtonsoft.Json.xml
+c:\users\j.aziz\documents\visual studio 2015\Projects\UserTransaction1\UserTransaction.Presentation\obj\Debug\UserTransaction.Presentation.csprojResolveAssemblyReference.cache
+c:\users\j.aziz\documents\visual studio 2015\Projects\UserTransaction1\UserTransaction.Presentation\obj\Debug\UserTransaction.Presentation.exe
+c:\users\j.aziz\documents\visual studio 2015\Projects\UserTransaction1\UserTransaction.Presentation\obj\Debug\UserTransaction.Presentation.pdb
